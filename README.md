@@ -1,5 +1,5 @@
 # Breaking Bad Character App
-Built with react and the Breaking Bad API https://breakingbadapi.com/
+Built using React and the Breaking Bad API https://breakingbadapi.com/
 
 
 
